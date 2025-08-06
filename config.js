@@ -1,2 +1,2 @@
 console.log("config.js");
-console.log("version 3");
+console.log("New for the purpose of practicing");
